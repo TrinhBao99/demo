@@ -1,5 +1,9 @@
 <<<<<<< HEAD
-hello
-=======
-hello everyone
+<<<<<<< HEAD
+
+
+
 >>>>>>> feature
+
+xin chao
+>>>>>>> parent of 6b7f114 (Update test.txt)
