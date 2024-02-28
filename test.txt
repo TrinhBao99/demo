@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
->>>>>>> feature
-
 xin chao
->>>>>>> parent of 6b7f114 (Update test.txt)
-
->>>>>>> parent of 33159f4 (modifi)
